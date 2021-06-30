@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "basura"
+echo "basurita"
